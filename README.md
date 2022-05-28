@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Dimitris Grammatikogiannis's github stats](https://github-readme-stats.vercel.app/api?username=dgrammatiko&show_icons=true&theme=merko)
-
