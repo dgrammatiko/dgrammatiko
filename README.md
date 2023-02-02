@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-@dgrammatiko@social.dgrammatiko.dev
+<a rel="me" href="https://social.dgrammatiko.dev/@dgrammatiko">Mastodon</a>
