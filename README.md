@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a rel="me" href="https://social.dgrammatiko.dev/@dgrammatiko">Mastodon</a>
+
+![](https://api.githubtrends.io/user/svg/dgrammatiko/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)
