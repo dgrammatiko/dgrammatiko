@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 <a rel="me" href="https://social.dgrammatiko.dev/@dgrammatiko">Mastodon</a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dgrammatiko)](https://github.com/dgrammatiko)
