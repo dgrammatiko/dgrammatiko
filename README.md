@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a rel="me" href="https://social.dgrammatiko.dev/@dgrammatiko">Mastodon</a>
+
+[![committers.top badge](https://user-badge.committers.top/greece/USERNAME.svg)](https://user-badge.committers.top/greece/dgrammatiko)
