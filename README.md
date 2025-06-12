@@ -18,14 +18,6 @@ Here are some ideas to get you started:
 <a rel="me" href="https://social.dgrammatiko.dev/@dgrammatiko">Mastodon</a>
 # Hi there, I'm Dimitris! 👋
 
-### About Me
-- 🔭 I’m currently working on [your current project or area of focus].
-- 🌱 I’m currently learning [technologies or skills you are learning].
-- 👯 I’m looking to collaborate on [projects or areas you are interested in collaborating on].
-- 💬 Ask me about [topics you are knowledgeable about].
-- 📫 How to reach me: [your email or other contact methods].
-- ⚡ Fun fact: [a fun fact about you].
-
 ### My GitHub Stats
 ![Dimitris's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgrammatiko&show_icons=true&theme=radical)
 
