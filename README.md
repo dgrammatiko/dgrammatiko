@@ -18,10 +18,4 @@ Here are some ideas to get you started:
 <a rel="me" href="https://social.dgrammatiko.dev/@dgrammatiko">Mastodon</a>
 # Hi there, I'm Dimitris! 👋
 
-### My GitHub Stats
-![Dimitris's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgrammatiko&show_icons=true&theme=radical)
-
-### Languages and Tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgrammatiko&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![committers.top badge](https://user-badge.committers.top/greece/USERNAME.svg)](https://user-badge.committers.top/greece/dgrammatiko)
