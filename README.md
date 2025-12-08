@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 # Hi there, I'm Dimitris! 👋
 
 [![committers.top badge](https://user-badge.committers.top/greece/USERNAME.svg)](https://user-badge.committers.top/greece/dgrammatiko)
+
+<img width="1536" height="1302" alt="image" src="https://github.com/user-attachments/assets/96d89c07-f9f2-462c-b0c8-be3f813c3606" />
